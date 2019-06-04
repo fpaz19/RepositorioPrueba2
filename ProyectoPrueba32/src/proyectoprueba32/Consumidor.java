@@ -6,4 +6,5 @@ package proyectoprueba32;
  */
 public class Consumidor {
     private int id;
+    private String name;
 }
